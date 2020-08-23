@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ScrollingTextImageView</string>
+    <string name="the_article_content" translatable="false">In the Nicaea Ethics, written in 350 BCE, Aristotle stated that happiness (also being well and doing well) is the only thing that humans desire for their own sake, unlike riches, honour, health or friendship.
+        He observed that men sought riches, or honour, or health not only for their own sake but also in order to be happy. For Aristotle the term enharmonic, which is translated as happiness or \'flourishing\' is an activity rather than an emotion or a state. Eudaimonia (Greek: εὐδαιμονία) is a classical Greek word consists of the word "eu" ("good" or "well being") and "daimōn" ("spirit" or "minor deity", used by extension to mean one\'s lot or fortune). Thus understood, the happy life is the good life, that is, a life in which a person fulfills human nature in an excellent way. Specifically, Aristotle argued that the good life is the life of excellent rational activity. He arrived at this claim with the "Function Argument". Basically, if it is right, every living thing has a function, that which it uniquely does. For Aristotle human function is to reason, since it is that alone which humans uniquely do.
+        And performing one\'s function well, or excellently, is good. According to Aristotle, the life of excellent rational activity is the happy life. Aristotle argued a second best life for those incapable of excellent rational activity was the life of moral virtue.
+        Western ethicist have made arguments for how humans should behave, either individually or collectively, based on the resulting happiness of such behavior. Utilitarians, such as John Stuart Mill and Jeremy Bentham, advocated the greatest happiness principle as a guide for ethical behavior.
+        Friedrich Nietzsche critiqued the English Utilitarians\' focus on attaining the greatest happiness, stating that "Man does not strive for happiness, only the Englishman does." Nietzsche meant that making happiness one\'s ultimate goal and the aim of one\'s existence, in his words "makes one contemptible."
+        Nietzsche instead yearned for a culture that would set higher, more difficult goals than "mere happiness." He introduced the quasi-despotic figure of the "last man" as a kind of thought experiment against the utilitarians and happiness-seekers. these small, "last men" who seek after only their own pleasure and health, avoiding all danger, exertion, difficulty, challenge, struggle are meant to seem contemptible to Nietzsche\'s reader. Nietzsche instead wants us to consider the value of what is difficult, what can only be earned through struggle, difficulty, pain and thus to come to see the affirmative value suffering and unhappiness truly play in creating everything of great worth in life, including all the highest achievements of human culture, not least of all philosophy.[34][35]
+        In 2004 Darrin McMacon claimed, that over time the emphasis shifted from the happiness of virtue to the virtue of happiness.[36]
+        Not all cultures seek to maximise happiness, and some cultures are averse to happiness.[40][41]</string>
+    <string name="the_article_sub_heading">The Article Sub-heading</string>
+    <string name="the_article_content2" >Happiness can be examined in experiential and evaluative contexts. Experiential well-being, or "objective happiness", is happiness measured in the moment via questions such as "How good or bad is your experience now?". In contrast, evaluative well-being asks questions such as "How good was your vacation?" and measures one\'s subjective thoughts and feelings about happiness in the past. Experiential well-being is less prone to errors in reconstructive memory, but the majority of literature on happiness refers to evaluative well-being. The two measures of happiness can be related by heuristics such as the peak-end rule.[55]
+
+    Some commentators focus on the difference between the hedonistic tradition of seeking pleasant and avoiding unpleasant experiences, and the eudaimonic tradition of living life in a full and deeply satisfying way.[56]
+
+    Theories on how to achieve happiness include "encountering unexpected positive events",[57] "seeing a significant other",[58] and "basking in the acceptance and praise of others".[59] However others believe that happiness is not solely derived from external, momentary pleasures.[60]
+</string>
+    <string name="psychology_of_happiness">\nPsychology Of Happiness\n</string>
+    <string name="happy">happy</string>
+    <string name="happy1">happy</string>
+    <string name="happiness">Happiness</string>
+    <string name="click_me">Click Me!</string>
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/article_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:text="@string/happiness"
+        android:gravity="center"
+         />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/article_heading">
+        <LinearLayout
+            android:id="@+id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+           <TextView
+            android:id="@id/article_subheading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@color/colorPrimary"
+            android:text="@string/the_article_sub_heading"
+            android:padding="@dimen/padding_default"
+               />
+
+            <ImageView
+                android:id="@+id/image_hap1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/happy1"
+                app:srcCompat="@drawable/hap1" />
+
+            <TextView
+                android:id="@+id/article"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web|all"
+                android:lineSpacingExtra="5sp"
+                android:text="@string/the_article_content"
+                />
+            <TextView
+                android:id="@+id/article_subheading2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@color/colorPrimaryDark"
+                android:lineSpacingExtra="5sp"
+                android:text="@string/psychology_of_happiness"/>
+
+            <ImageView
+                android:id="@+id/image_hap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/happy"
+                app:srcCompat="@drawable/b82bcd0ef81e1ca837533e413f974c66" />
+
+            <TextView
+                android:id="@id/article2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="5sp"
+                android:autoLink="web|all"
+                android:text="@string/the_article_content2"/>
+
+            <Button
+                android:id="@+id/disappear_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/click_me"
+                android:textColor="@android:color/white"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:onClick="showHideImage"/>
+         </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
